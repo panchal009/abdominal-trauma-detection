@@ -1,0 +1,9 @@
+gitignore       
+pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.hdf5
+*.log
+.DS_Store
