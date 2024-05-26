@@ -7,7 +7,7 @@ This project uses a deep learning model to detect abdominal trauma from medical 
 
 1. Clone the repository:
     sh
-    git clone https://github.com/yourusername/abdominal-trauma-detection.git
+    git clone[ https://github.com/yourusername/abdominal-trauma-detection.git](https://github.com/panchal009/abdominal-trauma-detection/tree/main)
     cd abdominal-trauma-detection
     
 
