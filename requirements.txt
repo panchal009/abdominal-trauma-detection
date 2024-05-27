@@ -1,4 +1,4 @@
- rquirements.txt    
+ requirements.txt    
  streamlit
  tensorflow
  keras
