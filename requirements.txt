@@ -1,5 +1,6 @@
  streamlit
  tensorflow
  keras
+ keras.preprocessing
  numpy
  keras-cv
